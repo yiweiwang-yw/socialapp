@@ -37,3 +37,4 @@ next-env.d.ts
 
 .commitgpt.json
 .commitgpt-template
+diff_output.txt
